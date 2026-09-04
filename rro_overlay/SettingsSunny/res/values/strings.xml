@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2026 Edith AOSP
+     SPDX-License-Identifier: Apache-2.0
+
+     Detailed specs for the Redmi Note 10
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About device hero card -->
+    <string name="edith_about_device_title" translatable="false">Redmi Note 10</string>
+    <string name="edith_about_device_brand" translatable="false">Xiaomi</string>
+
+    <!-- Processor -->
+    <string name="edith_spec_cpu_summary" translatable="false">Qualcomm</string>
+    <string name="edith_spec_cpu_subsummary" translatable="false">Snapdragon 678</string>
+
+    <!-- RAM & Storage -->
+    <string name="edith_spec_mem_summary" translatable="false">LPDDR4X | UFS 2.2</string>
+    <string name="edith_spec_mem_subsummary" translatable="false">4GB | 128GB</string>
+
+    <!-- GPU -->
+    <string name="edith_spec_gpu_summary" translatable="false">Adreno</string>
+    <string name="edith_spec_gpu_subsummary" translatable="false">Adreno 612</string>
+
+    <!-- Display -->
+    <string name="edith_spec_display_summary" translatable="false">6.43" 1080 × 2400</string>
+    <string name="edith_spec_display_subsummary" translatable="false">Super AMOLED</string>
+
+    <!-- Camera -->
+    <string name="edith_spec_camera_rear_subsummary" translatable="false">48MP + 8MP + 2MP + 2MP</string>
+    <string name="edith_spec_camera_front_subsummary" translatable="false">13MP</string>
+
+</resources>

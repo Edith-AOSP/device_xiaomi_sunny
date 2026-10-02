@@ -17,7 +17,7 @@
 
     <!-- RAM & Storage -->
     <string name="edith_spec_mem_summary" translatable="false">LPDDR4X | UFS 2.2</string>
-    <string name="edith_spec_mem_subsummary" translatable="false">4GB | 128GB</string>
+    <!-- Auto-detect <string name="edith_spec_mem_subsummary" translatable="false">4GB | 128GB</string> -->
 
     <!-- GPU -->
     <string name="edith_spec_gpu_summary" translatable="false">Adreno</string>
